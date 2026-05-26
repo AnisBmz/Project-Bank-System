@@ -1,0 +1,27 @@
+# تجاهل الملفات التنفيذية
+*.exe
+*.dll
+*.so
+
+# تجاهل ملفات الكائنات
+*.obj
+*.o
+
+# تجاهل ملفات الإعدادات المؤقتة
+*.log
+*.tmp
+
+# تجاهل مجلدات البناء والإخراج
+/bin/
+/build/
+/debug/
+/Release/
+
+# تجاهل ملفات Visual Studio
+*.vcxproj.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.db
+.vs/
