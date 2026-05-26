@@ -1,0 +1,80 @@
+﻿  Project 9, Bank System OOP.cpp
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(43,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(49,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(57,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(70,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(95,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(121,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(149,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(175,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(194,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(219,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(242,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(281,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(303,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(325,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(367,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(393,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(405,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(428,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(570,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(576,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsString.h(587,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsUtil.h(106,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsUtil.h(187,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\MyClsLib\clsUtil.h(199,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\clsTotalBalancesScreen.h(61,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Project%209,%20Bank%20System%20OOP.cpp')
+  
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\clsBankClient.h(320,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\clsBankClient.h(394,1): warning C4715: 'clsBankClient::withdraw': not all control paths return a value
+C:\Users\PC\source\My Project\Project 9, Bank System OOP\Project 9, Bank System OOP\clsUser.h(329,1): warning C4715: 'clsUser::save': not all control paths return a value
+  Project 9, Bank System OOP.vcxproj -> C:\Users\PC\source\My Project\Project 9, Bank System OOP\Debug\Project 9, Bank System OOP.exe
